@@ -7,5 +7,6 @@ while(element){
 	level++;
 	element = element.parentElement;
 }
-alert("The level of the element is: " + level);
+expect(str).to.equal(""The level of the element is: " + level");
+//alert("The level of the element is: " + level);
 });
